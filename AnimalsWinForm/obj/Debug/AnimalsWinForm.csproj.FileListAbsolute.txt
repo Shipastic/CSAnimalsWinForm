@@ -1,0 +1,20 @@
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.exe.config
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.exe
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.pdb
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.AnimalsForm.resources
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.Properties.Resources.resources
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csproj.GenerateResource.cache
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.exe
+C:\Users\Den\source\repos\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.pdb
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.exe.config
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.exe
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\bin\Debug\AnimalsWinForm.pdb
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csprojAssemblyReference.cache
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.AnimalsForm.resources
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.Properties.Resources.resources
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csproj.GenerateResource.cache
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.csproj.CoreCompileInputs.cache
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.exe
+X:\Институт\институт\Kanunova\ООП\весенний семестр\project\AnimalsWinForm\AnimalsWinForm\obj\Debug\AnimalsWinForm.pdb
